@@ -1,2 +1,2 @@
 This is the Ward Text File
- 
+Adding a new line of text 
